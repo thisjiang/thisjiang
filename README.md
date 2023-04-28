@@ -20,18 +20,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.8%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 280 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -41,19 +29,10 @@ Bash                     2 hrs 14 mins       ███░░░░░░░░�
 Python                   2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 CMake                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-
-🐱‍💻 Projects: 
-CINN                     13 hrs 26 mins      ████████████████████░░░░░   80.51 % 
-Paddle                   2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-external_cinn            1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/thisjiang/thisjiang/main/assets/bar_graph.png)
-
-
- Last Updated on 28/04/2023 07:25:02 UTC
+ Last Updated on 28/04/2023 07:34:30 UTC
 <!--END_SECTION:waka-->
       </div>
     </td>
