@@ -26,26 +26,25 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2036%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-469.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-469.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      5 hrs               ████████████░░░░░░░░░░░░░   49.11 % 
-Cuda                     3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-Python                   1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+C++                      7 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.88 % 
+Cuda                     3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+C                        2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Python                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🐱‍💻 Projects: 
-CINN                     6 hrs 3 mins        ███████████████░░░░░░░░░░   59.55 % 
-Paddle                   4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.29 % 
-PaddleNLP                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+CINN                     11 hrs 15 mins      ███████████████████░░░░░░   76.31 % 
+Paddle                   3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
 ```
 
 
- Last Updated on 14/06/2023 18:40:28 UTC
+ Last Updated on 15/06/2023 18:40:00 UTC
 <!--END_SECTION:waka-->
