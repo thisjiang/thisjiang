@@ -26,25 +26,25 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2021%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-469.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-506.1%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        7 hrs 19 mins       █████████████░░░░░░░░░░░░   51.08 % 
-C++                      3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-CMake                    2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Python                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+C                        7 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.94 % 
+C++                      5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.96 % 
+CMake                    2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🐱‍💻 Projects: 
-CINN                     12 hrs 37 mins      ██████████████████████░░░   88.00 % 
-Paddle                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+CINN                     14 hrs 41 mins      ██████████████████████░░░   88.15 % 
+Paddle                   1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 ```
 
 
- Last Updated on 25/06/2023 18:42:41 UTC
+ Last Updated on 26/06/2023 18:44:04 UTC
 <!--END_SECTION:waka-->
