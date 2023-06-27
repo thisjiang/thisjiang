@@ -26,25 +26,25 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2045%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-506.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-476.4%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        7 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.94 % 
-C++                      5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.96 % 
-CMake                    2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+C                        5 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.41 % 
+C++                      5 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.39 % 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+CMake                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🐱‍💻 Projects: 
-CINN                     14 hrs 41 mins      ██████████████████████░░░   88.15 % 
-Paddle                   1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+CINN                     11 hrs 17 mins      ███████████████████████░░   93.02 % 
+Paddle                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 ```
 
 
- Last Updated on 26/06/2023 18:44:04 UTC
+ Last Updated on 27/06/2023 18:43:47 UTC
 <!--END_SECTION:waka-->
