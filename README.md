@@ -26,23 +26,23 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%204%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-483.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-489.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      2 hrs 28 mins       ██████████████████████░░░   88.45 % 
-Python                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+C++                      2 hrs 22 mins       █████████████████████░░░░   85.48 % 
+Python                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-Paddle                   2 hrs 36 mins       ███████████████████████░░   93.22 % 
-CINN                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Paddle                   2 hrs 35 mins       ███████████████████████░░   93.17 % 
+CINN                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 ```
 
 
- Last Updated on 13/07/2023 18:43:55 UTC
+ Last Updated on 14/07/2023 18:43:06 UTC
 <!--END_SECTION:waka-->
