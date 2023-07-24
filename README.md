@@ -26,20 +26,21 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-489.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-496.3%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Cuda                     0 secs              ███████████████████░░░░░░   75.54 % 
+C++                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+code                     0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/07/2023 18:40:27 UTC
+ Last Updated on 24/07/2023 18:42:08 UTC
 <!--END_SECTION:waka-->
