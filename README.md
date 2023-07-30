@@ -26,7 +26,7 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-503.4%20thousand%20lines%20of%20code-blue)
 
@@ -34,14 +34,16 @@
 
 ```text
 💬 Programming Languages: 
-C++                      7 mins              ████████████████████████░   95.73 % 
-Cuda                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python                   12 mins             ███████████████░░░░░░░░░░   61.83 % 
+C++                      7 mins              █████████░░░░░░░░░░░░░░░░   36.54 % 
+Cuda                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🐱‍💻 Projects: 
-CINN                     7 mins              ████████████████████████░   94.34 % 
-code                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+DIGITS                   12 mins             ███████████████░░░░░░░░░░   61.83 % 
+CINN                     7 mins              █████████░░░░░░░░░░░░░░░░   36.02 % 
+code                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 
- Last Updated on 29/07/2023 18:40:29 UTC
+ Last Updated on 30/07/2023 18:40:37 UTC
 <!--END_SECTION:waka-->
