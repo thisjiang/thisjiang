@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2016%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-510.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-503.7%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -49,5 +49,5 @@ CINN                     7 mins              ███░░░░░░░░�
 ```
 
 
- Last Updated on 02/08/2023 18:40:59 UTC
+ Last Updated on 03/08/2023 18:41:27 UTC
 <!--END_SECTION:waka-->
