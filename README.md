@@ -28,20 +28,18 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2016%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-505.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-504.5%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      10 mins             █████████████░░░░░░░░░░░░   50.98 % 
-Python                   9 mins              ███████████░░░░░░░░░░░░░░   45.49 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tensorrt_llm             20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/08/2023 18:40:35 UTC
+ Last Updated on 09/08/2023 18:42:15 UTC
 <!--END_SECTION:waka-->
