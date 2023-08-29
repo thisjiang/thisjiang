@@ -26,20 +26,28 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-524.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537.5%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Ezhil                    0 secs              █████████████████████████   100.00 % 
+Bash                     3 hrs 54 mins       ████████████████████░░░░░   80.97 % 
+C++                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+CMake                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+FasterTransformer        4 hrs 6 mins        █████████████████████░░░░   85.12 % 
+tensorrt_llm             34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+ft_time_test             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+backend                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 
- Last Updated on 28/08/2023 18:40:56 UTC
+ Last Updated on 29/08/2023 18:40:38 UTC
 <!--END_SECTION:waka-->
