@@ -26,20 +26,28 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2048%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-602.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-622.3%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.36 % 
+Bash                     2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.17 % 
+C++                      1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Docker                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+GDScript3                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+backend_aug              4 hrs 32 mins       ███████████████████░░░░░░   76.30 % 
+scripts                  42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+tensorrt_llm             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+chengvjiang              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+triton-fastertransformer_4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 
 
- Last Updated on 07/10/2023 18:40:45 UTC
+ Last Updated on 08/10/2023 18:40:54 UTC
 <!--END_SECTION:waka-->
