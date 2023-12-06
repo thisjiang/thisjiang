@@ -26,28 +26,8 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2028%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-752.8%20thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Bash                     10 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   33.26 % 
-Python                   9 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
-C++                      4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Other                    3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Markdown                 1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-
-🐱‍💻 Projects: 
-tke-build                7 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-chatgpt                  6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-private_chengvjiang      5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-tensorrt_llm             4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-tensorrt_llm_backend     4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-```
-
-
- Last Updated on 05/12/2023 18:42:20 UTC
+ Last Updated on 06/12/2023 18:42:11 UTC
 <!--END_SECTION:waka-->
