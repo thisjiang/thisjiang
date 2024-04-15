@@ -26,6 +26,8 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2034%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-573.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -47,5 +49,5 @@ scripts                  22 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/04/2024 22:59:40 UTC
+ Last Updated on 15/04/2024 18:40:52 UTC
 <!--END_SECTION:waka-->
