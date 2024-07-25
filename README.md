@@ -26,8 +26,28 @@
 <div align="center"> <img height="400px" width="1000px" src="https://github-readme-activity-graph.cyclic.app/graph?username=thisjiang&theme=react&hide_title=true&hide_border=true&layout=compact&langs_count=6" /> </div></td>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C547%20hrs%2058%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-218.2%20thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 24/07/2024 18:43:14 UTC
+```text
+💬 Programming Languages: 
+Python                   27 hrs 1 min        █████████████████░░░░░░░░   66.67 % 
+C++                      7 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Bash                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+C                        21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+
+🐱‍💻 Projects: 
+tensorrt_llm             24 hrs 40 mins      ███████████████░░░░░░░░░░   60.88 % 
+chatgpt                  9 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+batch_manager            3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Megatron-DeepSpeed       2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+LLMTextHandler           27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+```
+
+
+ Last Updated on 25/07/2024 18:40:10 UTC
 <!--END_SECTION:waka-->
